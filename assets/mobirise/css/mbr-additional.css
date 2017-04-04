@@ -33,11 +33,14 @@
   color: #f7da64;
 }
 #content4-6 P {
-  color: #efefef;
+  color: #ffffff;
   text-align: left;
 }
 #content4-6 .mbr-section-title .mbr-header__text {
   color: #f7da64;
+}
+#content4-6 B {
+  color: #ffffff;
 }
 #pricing-table1-8 SPAN {
   font-size: 60px;
@@ -50,6 +53,10 @@
 }
 #social-buttons1-b .mbr-header__text {
   color: #fac51c;
+  text-align: center;
+}
+#contacts1-i P {
+  text-align: center;
 }
 #contacts1-i B {
   color: #fac51c;
