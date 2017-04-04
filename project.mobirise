@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/euge2-128x41.png",
     "noImageResize": "",
@@ -423,11 +423,11 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#222",
@@ -438,6 +438,50 @@
             "twitter": false
           },
           "text": "ПОДЕЛИТЬСЯ:"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/euge2-128x41.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#bottom",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "text2": "<b>Контакты</b><br>\nEmail: info@geteu.ge<br>Тел: +995 595 233 424<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_styles": {
+            "B": {
+              "color": "#fac51c"
+            }
+          }
         }
       ]
     }
