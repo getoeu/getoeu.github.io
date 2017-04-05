@@ -21,8 +21,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ევროკავშირისთვის დოკუმენტები",
+        "meta_descr": "ევროკავშირისთვის დოკუმენტები",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
