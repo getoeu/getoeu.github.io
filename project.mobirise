@@ -386,7 +386,7 @@
           "form": {
             "action": "stereo1900@yandex.ru",
             "alerts": {
-              "success": "დიდი მადლობა!"
+              "success": "მადლობთ!"
             },
             "fields": {
               "name": {
